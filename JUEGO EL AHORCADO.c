@@ -1,5 +1,3 @@
-//JUEGO REALIZADO EN LENGUAJE C
-//MAS DETALLES EN MI PAGINA WEB PROGRAMADOREC.COM
 
 #include <stdio.h>
 #include <stdlib.h>
